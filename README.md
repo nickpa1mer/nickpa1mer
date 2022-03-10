@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickpa1mer
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning Postman
+- 🌱 I’m currently learning Git, Postman, Mendix, Boomi
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me: nick.palmer@brighton-hove.gov.uk
 
